@@ -14,10 +14,7 @@ Astra It is a very beautiful theme and easy to modify and add a different temple
 
 
 
-Plugins*******************
-All in One SEO
-eCommerce Companion
-Google Analytics for WordPress by MonsterInsights
+
 	
 Stripe for WooCommerce
 OptinMonster
